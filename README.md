@@ -4,3 +4,4 @@ App que permite generar un fotografía de gato con un mensaje personalizado. Ade
 
 Desarrollada en Flutter.
 
+Usa la API "Cats as a service", https://cataas.com/#/.
